@@ -22,3 +22,5 @@ inxex.html
 
 #Debugging
 npm install debug
+
+#How to start our app
