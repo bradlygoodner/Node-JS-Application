@@ -9,9 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@popperjs/core": "2.0.6",
+    "boostrap": "2.0.0",
+    "bootstrap": "4.4.1",
     "chalk": "3.0.0",
     "debug": "4.1.1",
     "express": "4.17.1",
-    "morgan": "1.9.1"
+    "jquery": "3.4.1",
+    "morgan": "1.9.1",
+    "popper": "1.0.1"
   }
 }
