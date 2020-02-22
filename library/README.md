@@ -92,3 +92,13 @@ Book Route
 - We will use a router 
 
 When defining yoour own module and calling it from your main file, you need to make sure that you print out the full file path.
+
+#Database 
+- Gettind data from SQL Server
+- Using MongoDB
+- Mongo Command Line
+- Inserting Date
+- Insert
+
+###Creating an Azure Databse
+- 
