@@ -101,4 +101,6 @@ When defining yoour own module and calling it from your main file, you need to m
 - Insert
 
 ###Creating an Azure Databse
-- 
+Gotta create your database
+
+In order to connect it, we need mssql from the NPM
