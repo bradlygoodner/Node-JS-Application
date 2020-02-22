@@ -111,3 +111,9 @@ bookRoutes.js
 when needing to use mssql... it caches the information between the different docs.
 
 >Need to look up destructuring.
+
+
+#Middleware
+What is Middleware?
+
+Morgan is middleware.... basically a ffunction that is executed on everything that comes in. 
