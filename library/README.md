@@ -87,3 +87,8 @@ is just html
 - Router Functions
 
 1. Build out Navigation
+
+Book Route
+- We will use a router 
+
+When defining yoour own module and calling it from your main file, you need to make sure that you print out the full file path.
