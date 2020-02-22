@@ -104,3 +104,10 @@ When defining yoour own module and calling it from your main file, you need to m
 Gotta create your database
 
 In order to connect it, we need mssql from the NPM
+
+## Creating Queries Specifically
+bookRoutes.js
+
+when needing to use mssql... it caches the information between the different docs.
+
+>Need to look up destructuring.
