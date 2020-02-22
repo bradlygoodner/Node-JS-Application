@@ -78,3 +78,12 @@ Very Basic Pug
 is just html
 
 *Need to learn about templating engines*
+
+
+#Routes
+- How are we going to separate the files out.
+- Separating Files
+- Parameter Variables
+- Router Functions
+
+1. Build out Navigation
