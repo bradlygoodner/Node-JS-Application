@@ -1,7 +1,6 @@
 const express = require('express');
-const { mongoClient } = require('mongodb');
-// const debug = require('debug')('app:adminRoutes');
-
+const { MongoClient } = require('mongodb');
+const debug = require('debug')('app:adminRoutes');
 
 const adminRouter = express.Router();
 const books = [
@@ -71,8 +70,9 @@ function router(nav) {
           const response = await db.collection('books').insertMany(books);
           res.json(response);
         } catch (err) {
-        //   debug(err.stack);
+          debug(err.stack);
         }
+
         client.close();
       }());
     });
