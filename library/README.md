@@ -40,9 +40,9 @@ We don't want to hard code our ports
     "ignore":["node_modules/**/node_modules"],
     "delay":"2500"
   }`
+
   
-  
-  
+
 #Templating Engines
 - Building an web application
 - Templating Engines
@@ -117,3 +117,19 @@ when needing to use mssql... it caches the information between the different doc
 What is Middleware?
 
 Morgan is middleware.... basically a ffunction that is executed on everything that comes in. 
+
+#MongoDB
+###Installing Mongo DB
+https://docs.mongodb.com/guides/server/install/ 
+
+Two executables we care about are 
+`mongo`
+`mongod`
+https://medium.com/better-programming/installing-mongodb-on-macos-catalina-aab1cbe0c836
+
+on the mongo side we're going to create an admin route that will populate data for us.
+
+```html
+Why?
+```
+
