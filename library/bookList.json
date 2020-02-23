@@ -1,0 +1,134 @@
+[
+  {
+    "title": "War and Peace",
+    "Genre": "Historical Fiction",
+    "author": "Lev Nikolayevich Tolstoy",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Les Misérables",
+    "Genre": "Historical Fiction",
+    "author": "Victor Hugo",
+    "Read": "FALSE"
+  },
+  {
+    "title": "The Time Machine",
+    "Genre": "Science Fiction",
+    "author": "H. G. Wells",
+    "Read": "FALSE"
+  },
+  {
+    "title": "A Journey into the Center of the Earth",
+    "Genre": "Science Fiction",
+    "author": "Jules Verne",
+    "Read": "FALSE"
+  },
+  {
+    "title": "The Dark World",
+    "Genre": "Fantasy",
+    "author": "Henry Kuttner",
+    "Read": "FALSE"
+  },
+  {
+    "title": "The Wind in the Willows",
+    "Genre": "Fantasy",
+    "author": "Kenneth Grahame",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Life On The Mississippi",
+    "Genre": "History",
+    "author": "Mark Twain",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Childhood",
+    "Genre": "Biography",
+    "author": "Lev Nikolayevich Tolstoy",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Yoga Mind",
+    "Genre": "Health & Wellness",
+    "author": "Suzan Colon",
+    "Read": "TRUE"
+  },
+  {
+    "title": "The Speed of Trust",
+    "Genre": "Personal Growth",
+    "author": "Stephen M. R. Covey",
+    "Read": ""
+  },
+  {
+    "title": "The Four Tendencies",
+    "Genre": "Personal Growth",
+    "author": "Gretchen Rubin",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Ask.",
+    "Genre": "Business",
+    "author": "Ryan Levesque",
+    "Read": "TRUE"
+  },
+  {
+    "title": "The Energy Bus",
+    "Genre": "Personal Growth",
+    "author": "Jon Gordon",
+    "Read": "TRUE"
+  },
+  {
+    "title": "Attached",
+    "Genre": "Relationships",
+    "author": "Amir Levine",
+    "Read": "TRUE"
+  },
+  {
+    "title": "Born to Win",
+    "Genre": "Personal Growth",
+    "author": "Zig Zigler",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Equipping 101",
+    "Genre": "Personal Growth",
+    "author": "John C. Maxwell",
+    "Read": "TRUE"
+  },
+  {
+    "title": "Who Says You Can’t? You DO",
+    "Genre": "Personal Growth",
+    "author": "Daniel Chidiac",
+    "Read": "TRUE"
+  },
+  {
+    "title": "Daring Greatly",
+    "Genre": "Personal Growth",
+    "author": "Brene Brown",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Training Camp",
+    "Genre": "Business",
+    "author": "Jon Gordon",
+    "Read": "TRUE"
+  },
+  {
+    "title": "Atomin Habits",
+    "Genre": "Personal Growth",
+    "author": "James Clear",
+    "Read": "FALSE"
+  },
+  {
+    "title": "Can’t Hurt Me",
+    "Genre": "Personal Growth",
+    "author": "David Goggins",
+    "Read": "TRUE"
+  },
+  {
+    "title": "Everything’s Fucked",
+    "Genre": "Personal Growth",
+    "author": "Mark Manson",
+    "Read": "TRUE"
+  }
+]
